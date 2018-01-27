@@ -1,0 +1,3 @@
+name: "install"
+shortDesc: "Install OpenShift CLI plugins."
+command: "./oc-plugin-install.sh"
